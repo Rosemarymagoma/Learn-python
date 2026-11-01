@@ -245,7 +245,7 @@ Want to follow my programming journey or explore my projects?
 
 **GitHub Repository:**
 
-[👉 Visit My Python Practice Repository](https://github.com/Rosemarymagoma/python-practice)
+[👉 Visit My Python Practice Repository](https://github.com/Rosemarymagoma/Learn-python)
 
 **GitHub Profile:**
 
